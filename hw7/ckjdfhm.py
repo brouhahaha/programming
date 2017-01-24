@@ -1,7 +1,7 @@
 import random
 def opendict():
     d={} 
-    with open ('dict.csvмолн', 'r', encoding='utf-8') as f:
+    with open ('dict.csv', 'r', encoding='utf-8') as f:
         text = f.readlines()
         for p in text:
             prs=[]
