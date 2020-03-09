@@ -1,0 +1,11 @@
+IATA,airline_name,airline_country,fleet_size,destinations,flight_number,capacity,airplane_model,departure_time,arrival_time,departure_city,departure_country,departure_airport,destination_city,capital,nature,interest,destination_country,destination_airport,flight_duration
+SU,Aeroflot,Russia,249,146,1317,236,A 320,21:40:00,0:10:00,Murmansk,Russia,MMK,Moscow,1,none,culture,Russia,SVO,2:30:00
+SU,Aeroflot,Russia,249,146,2263,98,SSJ 100-95,21:20:00,0:05:00,Tallinn,Estonia,TLL,Moscow,1,none,culture,Russia,SVO,1:45:00
+U6,Ural Airlines,Russia,46,101,278,236,A 320-200,12:55:00,15:15:00,Sochi,Russia,AER,Moscow,1,none,culture,Russia,DME,2:20:00
+S7,S7 Airlines,Russia,101,150,3661,240,A 321,10:05:00,12:50:00,Moscow,Russia,DME,Barcelona,0,sea,vacation,Spain,BCN,4:45:00
+SU,Aeroflot,Russia,249,146,509,236,A 320-200,18:50:00,0:15:00,Tel Aviv,Israel,TLV,Moscow,1,none,culture,Russia,SVO,4:25:00
+RT,UVT Aero,Russia,8,11,574,52,CRJ 100-200,4:20:00,5:06:00,Nizhny Novgorod,Russia,GOJ,Kazan,0,river,culture,Russia,KZN,0:46:00
+RT,UVT Aero,Russia,8,11,610,52,CRJ 200,9:40:00,10:35:00,Barnaul,Russia,BAX,Nizhny Novgorod,0,river,culture,Russia,GOJ,4:55:00
+WZ,Red Wings Airlines,Russia,12,20,7033,240,A 321,1:30:00,5:15:00,Nizhny Novgorod,Russia,GOJ,Antalya,0,sea,vacation,Turkey,AYT,3:45:00
+DP,Pobeda,Russia,30,67,845,215,B 737-800,13:20:00,14:05:00,Moscow,Russia,VKO,Berlin,1,none,culture,Germany,TXL,2:45:00
+B2,Belavia Belarusian Airlines,Belarus,30,52,944,188,B 735,5:35:00,7:00:00,Saint Petersburg,Russia,LED,Minsk,1,forest,culture,Belarus,MSQ,1:25:00
